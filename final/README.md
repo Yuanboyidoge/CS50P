@@ -1,4 +1,4 @@
-# Video Demo: [👀](https://youtu.be/iinWwpDyu6Q)
+# Video Demo: 👀
 # Description:
 
 ## Introduction
