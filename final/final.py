@@ -142,5 +142,6 @@ def main():
     # Save PDF
     pdf.output("OUTPUT.pdf")
 
-main()
+if __name__ == "__main__":
+    main()
 
