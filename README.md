@@ -7,3 +7,5 @@
 - week5--Unit Test--240304
 - week6--File I/O--240306~240307
 - week7--Regular Expressions--240310~240312
+- week8--Object-Oriented Programming--240313~240314
+- final project --~240322(太懒了，写得慢，又不知道写啥hhh)
